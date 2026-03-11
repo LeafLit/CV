@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" preserveAspectRatio="xMidYMid slice">
+  <rect width="800" height="500" fill="#EDECEA"/>
+  <rect x="340" y="210" width="120" height="80" rx="4" fill="#D8D6D3"/>
+  <polygon points="340,290 400,210 460,290" fill="#C8C5C1"/>
+  <circle cx="370" cy="235" r="16" fill="#C8C5C1"/>
+  <text x="400" y="340" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#A8A5A2">b�G</text>
+</svg>
